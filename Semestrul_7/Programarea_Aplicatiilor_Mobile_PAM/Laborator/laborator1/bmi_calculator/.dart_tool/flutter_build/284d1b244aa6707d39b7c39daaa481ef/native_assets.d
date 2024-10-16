@@ -1,0 +1,1 @@
+ D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Mobile_PAM\\laborator1\\bmi_calculator\\.dart_tool\\flutter_build\\284d1b244aa6707d39b7c39daaa481ef\\native_assets.yaml: 
