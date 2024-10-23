@@ -76,11 +76,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Message Broker\\Broker\\Broker.csproj",
+      "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Message Broker\\Broker\\Broker.csproj",
       "projectName": "Broker",
-      "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Message Broker\\Broker\\Broker.csproj",
+      "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Message Broker\\Broker\\Broker.csproj",
       "packagesPath": "C:\\Users\\mmunt\\.nuget\\packages\\",
-      "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Message Broker\\Broker\\obj\\",
+      "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Message Broker\\Broker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmunt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +98,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Message Broker\\Common\\Common.csproj": {
-              "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Message Broker\\Common\\Common.csproj"
+            "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Message Broker\\Common\\Common.csproj": {
+              "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Message Broker\\Common\\Common.csproj"
             }
           }
         }

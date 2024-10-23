@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Broker\\Broker.csproj": {}
+    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Broker\\Broker.csproj": {}
   },
   "projects": {
-    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Broker\\Broker.csproj": {
+    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Broker\\Broker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Broker\\Broker.csproj",
+        "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Broker\\Broker.csproj",
         "projectName": "Broker",
-        "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Broker\\Broker.csproj",
+        "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Broker\\Broker.csproj",
         "packagesPath": "C:\\Users\\mmunt\\.nuget\\packages\\",
-        "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Broker\\obj\\",
+        "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Broker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmunt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\Common.csproj": {
-                "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\Common.csproj"
+              "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\Common.csproj": {
+                "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\Common.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\Common.csproj": {
+    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\Common.csproj",
+        "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\mmunt\\.nuget\\packages\\",
-        "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\obj\\",
+        "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmunt\\AppData\\Roaming\\NuGet\\NuGet.Config",

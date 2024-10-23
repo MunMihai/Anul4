@@ -10,3 +10,15 @@ D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Message B
 D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Message Broker\Common\obj\Debug\net8.0\Common.pdb
 D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Message Broker\Common\obj\Debug\net8.0\ref\Common.dll
 D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Message Broker\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\bin\Debug\net8.0\Common.deps.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\bin\Debug\net8.0\Common.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\bin\Debug\net8.0\Common.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\obj\Debug\net8.0\Common.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\obj\Debug\net8.0\refint\Common.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\obj\Debug\net8.0\Common.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\Message Broker\Common\obj\Debug\net8.0\ref\Common.dll

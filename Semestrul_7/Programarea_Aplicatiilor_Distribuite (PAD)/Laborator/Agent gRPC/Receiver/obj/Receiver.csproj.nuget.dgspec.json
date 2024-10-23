@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Receiver\\Receiver.csproj": {}
+    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Receiver\\Receiver.csproj": {}
   },
   "projects": {
-    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\Common.csproj": {
+    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\Common.csproj",
+        "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\mmunt\\.nuget\\packages\\",
-        "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\obj\\",
+        "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmunt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Receiver\\Receiver.csproj": {
+    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Receiver\\Receiver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Receiver\\Receiver.csproj",
+        "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Receiver\\Receiver.csproj",
         "projectName": "Receiver",
-        "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Receiver\\Receiver.csproj",
+        "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Receiver\\Receiver.csproj",
         "packagesPath": "C:\\Users\\mmunt\\.nuget\\packages\\",
-        "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Receiver\\obj\\",
+        "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Receiver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmunt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,8 +106,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\Common.csproj": {
-                "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Agent gRPC\\Common\\Common.csproj"
+              "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\Common.csproj": {
+                "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Agent gRPC\\Common\\Common.csproj"
               }
             }
           }

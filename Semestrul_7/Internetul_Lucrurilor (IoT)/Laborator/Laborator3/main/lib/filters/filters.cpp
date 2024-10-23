@@ -1,18 +1,18 @@
 #include "filters.h"
+#include "stdinout.h"
 
-void showValues();
-void move();
+void showValues(int* values);
+void move(int* values);
 
-int adcValues[SAMPLES_NUM] = {0}; // Stocarea mostrelor
-int index = SAMPLES_NUM - 1 ; // Indexul mostrei curente
-double alpha[SAMPLES_NUM] = {0.1, 0.2, 0.3, 0.5, 0.7};
 
+FilterData saltAndPepperData = {{0}, SAMPLES_NUM - 1, {1}};
+FilterData weightedAvgData = {{0}, SAMPLES_NUM - 1, {0.1, 0.2, 0.3, 0.5, 0.7}};
 
 double saltAndPapperFilter(double newValue) {
-  adcValues[index] = newValue;
+  saltAndPepperData.values[saltAndPepperData.index] = newValue;
 
   int sortedValues[SAMPLES_NUM];
-  memcpy(sortedValues, adcValues, sizeof(adcValues));
+  memcpy(sortedValues, saltAndPepperData.values, sizeof(saltAndPepperData.values));
 
   // Folosim o sortare mai eficientă (Insertion Sort pentru liste mici)
   for (int i = 1; i < SAMPLES_NUM; i++) {
@@ -25,41 +25,39 @@ double saltAndPapperFilter(double newValue) {
     sortedValues[j + 1] = key;
   }
 
-  showValues();
-  move();
+  showValues(saltAndPepperData.values);
+  move(saltAndPepperData.values);
 
   return sortedValues[SAMPLES_NUM / 2];
 }
 
-
 double weightedMovingAverageFilter(double newValue) {
   double weightedAverage = 0;
   double weightSum = 0;
-  adcValues[index] = newValue;
+  weightedAvgData.values[weightedAvgData.index] = newValue;
 
   for (int i = 0; i < SAMPLES_NUM; i++) {
-    weightedAverage += adcValues[i] * alpha[i];
-    weightSum += alpha[i];
+    weightedAverage += weightedAvgData.values[i] * weightedAvgData.alpha[i];
+    weightSum += weightedAvgData.alpha[i];
   }
 
-  showValues();
-  move();
+  showValues(weightedAvgData.values);
+  move(weightedAvgData.values);
 
   return weightedAverage / weightSum;
 }
 
-void showValues() {
-  int len = sizeof(adcValues) / sizeof(adcValues[0]);
-  Serial.print("[ ");
-  for (int i = 0; i < len; i++) {
-    Serial.print(adcValues[i]);
-    Serial.print(" ");
+void showValues(int* values) {
+  printf("[ ");
+  for (int i = 0; i < SAMPLES_NUM; i++) {
+    printf("%d ", values[i]);
   }
-  Serial.print("]");
+  printf("]");
 }
 
-void move() {
+void move(int* values) {
   for (int i = 0; i < SAMPLES_NUM - 1; i++) {
-    adcValues[i] = adcValues[i + 1];
+    values[i] = values[i + 1];
   }
 }
+

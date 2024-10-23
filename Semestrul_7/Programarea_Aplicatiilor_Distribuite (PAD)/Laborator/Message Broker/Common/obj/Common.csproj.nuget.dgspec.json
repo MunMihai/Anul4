@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Message Broker\\Common\\Common.csproj": {}
+    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Message Broker\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Message Broker\\Common\\Common.csproj": {
+    "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Message Broker\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Message Broker\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Message Broker\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Message Broker\\Common\\Common.csproj",
+        "projectPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Message Broker\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\mmunt\\.nuget\\packages\\",
-        "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Message Broker\\Common\\obj\\",
+        "outputPath": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\Message Broker\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmunt\\AppData\\Roaming\\NuGet\\NuGet.Config",
