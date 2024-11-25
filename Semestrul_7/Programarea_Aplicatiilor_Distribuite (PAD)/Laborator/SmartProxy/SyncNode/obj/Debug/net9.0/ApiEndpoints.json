@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SyncNode.Controllers.SyncController",
+    "Method": "Sync",
+    "RelativePath": "Sync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "Common.Models.SyncEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

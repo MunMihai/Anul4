@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MovieAPI\\MovieAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Proxy\\Proxy.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SyncNode\\SyncNode.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OWGCuBVmH50LCx0ld+VbfiElUQV5MdoKJgFtPQNRN/s=",
+  "Source": "SyncNode",
+  "BasePath": "_content/SyncNode",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
