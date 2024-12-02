@@ -19,7 +19,7 @@
         "Type": "RoundRobin"
       },
       "FileCacheOptions": {
-        "TtlSeconds": 10,
+        "TtlSeconds": 5,
         "Region": "movieCacheRegion",
         "Header": "OC-Caching-Control",
         "EnableContentHashing": false // my route has GET verb only, assigning 'true' for requests with body: POST, PUT etc.
