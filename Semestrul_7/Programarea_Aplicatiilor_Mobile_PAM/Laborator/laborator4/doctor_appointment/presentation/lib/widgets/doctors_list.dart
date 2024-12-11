@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 
 import '../common/styles/text_style.dart';
@@ -15,11 +14,10 @@ class DoctorsList extends StatelessWidget {
   Widget build(BuildContext context) {
     final doctors = doctorController.sortedDoctors;
     return Obx(() {
-      // Verificăm dacă lista de bannere este goală
       if (doctors.isEmpty) {
         return const Center(
             child:
-                CircularProgressIndicator()); // Afișează indicator de încărcare până când se încarcă bannerele
+                CircularProgressIndicator());
       }
       return Column(
         children: [

@@ -8,6 +8,8 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
+  flutter:
+    sdk: flutter
   domain:
     path: ../domain
   json_annotation: ^4.9.0
@@ -18,3 +20,4 @@ dev_dependencies:
   json_serializable: ^6.8.0 
 
 publish_to: none 
+

@@ -1,6 +1,7 @@
 import 'dart:convert';
-import 'dart:io';
+//import 'dart:io';
 import 'package:data/mocks/nearby_center_mock_data.dart';
+import 'package:flutter/services.dart';
 
 import '../models/nearby_center_model.dart'; // Importă modelul NearbyCenterModel
 
@@ -13,8 +14,8 @@ class NearbyCenterLocalJsonDataSourceImpl
   @override
   Future<List<NearbyCenterModel>> getNearbyCenters() async {
     try {
-      // Încarcă fișierul JSON local
-      String json = await File('assets/localData.json').readAsString();
+      String json = await rootBundle.loadString('../presentation/assets/v1.json');
+      //String json = await File('assets/localData.json').readAsString();
       var result = jsonDecode(json);
 
       return (result['nearby_centers'] as List)
@@ -22,7 +23,7 @@ class NearbyCenterLocalJsonDataSourceImpl
           .toList();
 
     } catch (e) {
-      print('Error loading doctors: $e');
+      print('Error loading nearby_centers: $e');
       await Future.delayed(Duration(seconds: 5));
       return nearbyCentersMockData;
     }
