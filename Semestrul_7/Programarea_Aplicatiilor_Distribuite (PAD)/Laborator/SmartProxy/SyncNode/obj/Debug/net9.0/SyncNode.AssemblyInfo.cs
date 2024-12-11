@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyncNode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f16bd35012c1dc1c8b357fe6a1d49057275c034")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a50beed5eb79776b4ed202db9442f5b6a909b112")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyncNode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyncNode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

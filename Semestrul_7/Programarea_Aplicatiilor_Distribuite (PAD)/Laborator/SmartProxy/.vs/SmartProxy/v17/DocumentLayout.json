@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "MovieAPI\\Controllers\\MovieController.cs",
               "ToolTip": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\SmartProxy\\MovieAPI\\Controllers\\MovieController.cs",
               "RelativeToolTip": "MovieAPI\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowEMAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T15:46:03.502Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "MovieAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T15:43:49.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T15:43:49.338Z"
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "Proxy\\Ocelot.json",
               "ToolTip": "D:\\Universitate\\Semestrul_7\\Programarea_Aplicatiilor_Distribuite (PAD)\\Laborator\\SmartProxy\\Proxy\\Ocelot.json",
               "RelativeToolTip": "Proxy\\Ocelot.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-02T15:41:23.732Z",
               "EditorCaption": ""
